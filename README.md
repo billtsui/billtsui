@@ -1,4 +1,8 @@
-### Hi I'm Bill 👋 
+### Hi there, I'm [Bill!](https://billtsui.cn)  👋 
+
+<a href="https://twitter.com/frog_clockwork">
+  <img align="left" alt="Bill Tsui | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 I'm a full-stack developer.
 
