@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Bill 👋 
 
 I'm a full-stack developer.
 
