@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billtsui)](https://github.com/anuraghazra/github-readme-stats)    [![billtsui's github stats](https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billtsui)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![billtsui's github stats](https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
