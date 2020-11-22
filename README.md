@@ -11,7 +11,7 @@ Hi, I'm Bill Tsui, a full-stack developer from China.
 
 - 🔭 I’m currently working on Trip.com.
 - 🌱 I’m currently learning Swift & SwiftUI.
-- 💬 Ask me about Java/C#/Swift/Vue/React.
+- 💬 Ask me about Java/C#/Vue/React.
 
 **Languages and Tools:**  
 
