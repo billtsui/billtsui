@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Trip.com](https://www.trip.com)**
 
-- 📝 I regularly write articles on [https://www.billtsui.cn](https://www.billtsui.cn)
+- 📝 I regularly write articles on **[billtsui.cn](https://www.billtsui.cn)**
 
 - 💬 Ask me about **C#,C and Java**
 
