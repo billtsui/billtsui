@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on **[billtsui.cn](https://www.billtsui.cn)**
 
-- 💬 Ask me about **C#, C and .Net**
+- 💬 Ask me about **C, C++, C# and .Net**
 
 - 📫 How to reach me **dhubilltsui@gmail.com**
 
