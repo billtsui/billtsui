@@ -24,7 +24,6 @@
 <br/>
 <br/>
 
-<figure>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtsui&langs_count=8" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true" alt="Bill's GitHub stats"></img>
-</figure>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=billtsui&langs_count=8)
+
+![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true)
