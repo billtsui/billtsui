@@ -14,7 +14,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,mysql,redis,mongodb,sqlite,git,github,gitlab,docker,nginx,cmake,rabbitmq,linux,apple,windows,bash,neovim,vscode,visualstudio,clion,rider&theme=light&perline=14)](https://github.com/billtsui)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,mysql,redis,mongodb,sqlite,git,github,gitlab,nginx,cmake,rabbitmq,linux,apple,windows,bash,vim,neovim,vscode,visualstudio,clion,rider&theme=light&perline=14)](https://github.com/billtsui)
 
 <br/>
 <br/>
