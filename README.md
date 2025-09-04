@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on **[billtsui.cn](https://www.billtsui.cn)**
 
-- 💬 Ask me about ** X86 or ARM Assembly / C / [C#](https://dotnet.microsoft.com/en-us/languages/csharp) and [.Net](https://dotnet.microsoft.com/en-us/)**
+- 💬 Ask me about **X86 or ARM Assembly / C / [C#](https://dotnet.microsoft.com/en-us/languages/csharp) and [.Net](https://dotnet.microsoft.com/en-us/)**
 
 - 📫 How to reach me **dhubilltsui@gmail.com**
 
