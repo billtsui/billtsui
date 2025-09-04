@@ -8,13 +8,13 @@
 
 - 📝 I regularly write articles on **[billtsui.cn](https://www.billtsui.cn)**
 
-- 💬 Ask me about **Arm assembly/C/[C#](https://dotnet.microsoft.com/en-us/languages/csharp) and [.Net](https://dotnet.microsoft.com/en-us/)**
+- 💬 Ask me about ** X86 or ARM Assembly / C / [C#](https://dotnet.microsoft.com/en-us/languages/csharp) and [.Net](https://dotnet.microsoft.com/en-us/)**
 
 - 📫 How to reach me **dhubilltsui@gmail.com**
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,mysql,redis,mongodb,sqlite,git,github,gitlab,nginx,cmake,rabbitmq,linux,apple,windows,bash,vim,neovim,vscode,visualstudio,clion,rider&theme=light&perline=14)](https://github.com/billtsui)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,mysql,redis,mongodb,sqlite,git,github,gitlab,nginx,cmake,rabbitmq,linux,apple,windows,bash,vim,neovim,vscode,visualstudio,clion,rider&theme=light&perline=7)](https://github.com/billtsui)
 
 <br/>
 <br/>
