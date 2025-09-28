@@ -5,10 +5,14 @@
 <!--my-ticker-->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+Bill+Tsui;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;)](https://git.io/typing-svg)
     
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=billtsui&label=Visitors&color=0e75b6&style=flat" alt="billtsui" /> <img alt="Discord" src="https://img.shields.io/discord/143867839282020352" alt="Discord" />
+</p>
+
 <!--header picture-->
 ![](assets/header_.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=billtsui&label=Profile%20views&color=0e75b6&style=flat" alt="billtsui" /> </p>
+
 
 
 - 🔭 I’m currently working on **[Trip.com](https://www.trip.com)**
