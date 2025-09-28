@@ -3,7 +3,7 @@
 
 
 <!--my-ticker-->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+there+👋,+I+am+Bill+Tsui;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+Bill+Tsui;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;)](https://git.io/typing-svg)
     
 <!--header picture-->
 ![](assets/header_.png)
