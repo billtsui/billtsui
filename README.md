@@ -39,11 +39,6 @@
 
 ![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg)
 
-<!-- <div style="display: flex; flex-direction: row;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtsui&layout=compact" style="height: 160px; margin: 0 1%;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true" style="height: 160px; margin: 0 1%;"/>
-</div> -->
-
 
 <div class='container'>
 <img style="height: 160px; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true" />
