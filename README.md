@@ -7,6 +7,7 @@
     
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=billtsui&label=Visitors&color=0e75b6&style=flat" alt="billtsui" /> <img alt="Discord" src="https://img.shields.io/discord/143867839282020352" alt="Discord" />
+<img alt="Static Badge" src="https://img.shields.io/badge/status-updating-FF1493">
 </p>
 
 <!--header picture-->
