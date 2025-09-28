@@ -3,10 +3,10 @@
 
 
 <!--my-ticker-->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+Bill+Tsui;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+Bill+Tsui.;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience.;)](https://git.io/typing-svg)
     
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=billtsui&label=Visitors&color=0e75b6&style=flat" alt="billtsui" /> <img alt="Discord" src="https://img.shields.io/discord/143867839282020352" alt="Discord" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=billtsui&label=Visitors&color=0e75b6&style=flat" alt="billtsui" /> <img alt="Discord" src="https://img.shields.io/discord/143867839282020352?link=https%3A%2F%2Fdiscord.com%2Fusers%2Fbi4aas" alt="Discord" />
 <img alt="Static Badge" src="https://img.shields.io/badge/status-updating-FF1493">
 </p>
 
@@ -16,13 +16,13 @@
 
 
 
-- 🔭 I’m currently working on **[Trip.com](https://www.trip.com)**
+### - 🔭 I’m currently working on **[Trip.com](https://www.trip.com)**
 
-- 📝 I regularly write articles on **[billtsui.cn](https://www.billtsui.cn)**
+### - 📝 I regularly write articles on **[billtsui.cn](https://www.billtsui.cn)**
 
-- 💬 Ask me about **X86 or ARM Assembly / C / [C#](https://dotnet.microsoft.com/en-us/languages/csharp) and [.Net](https://dotnet.microsoft.com/en-us/)**
+### - 💬 Ask me about ** [Arm Assembly](https://developer.arm.com/documentation/den0042/0100/Introduction-to-Assembly-Language) / [C](https://en.wikipedia.org/wiki/The_C_Programming_Language) / [C#](https://dotnet.microsoft.com/en-us/languages/csharp) and [.Net](https://dotnet.microsoft.com/en-us/)**
 
-- 📫 How to reach me **dhubilltsui@gmail.com**
+### - 📫 How to reach me **dhubilltsui@gmail.com**
 
 
 ### Languages and Tools:
