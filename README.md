@@ -26,6 +26,10 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet,mysql,redis,mongodb,sqlite,git,github,gitlab,nginx,cmake,rabbitmq,linux,apple,windows,bash,vim,neovim,vscode,visualstudio,clion,rider&theme=light&perline=7)](https://github.com/billtsui)
 
+|Property|Data|
+|--------|----|
+|Language|[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet&theme=light&perline=7)](https://github.com/billtsui)|
+
 <br/>
 <br/>
 
