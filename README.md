@@ -28,7 +28,7 @@
 
 |Property|Data|
 |--------|----|
-|Language|[![My Skills](https://skillicons.dev/icons?i=c,cs,dotnet&theme=light&perline=7)](https://github.com/billtsui)|
+|Language|[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![.Net](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![AssemblyScript](https://img.shields.io/badge/Assembly-007AAC?logo=assemblyscript&logoColor=fff)](#)|
 
 <br/>
 <br/>
