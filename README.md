@@ -28,7 +28,9 @@
 
 |Property|Data|
 |--------|----|
-|Language|[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![.Net](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![AssemblyScript](https://img.shields.io/badge/Assembly-007AAC?logo=assemblyscript&logoColor=fff)](#)|
+|Language|[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![AssemblyScript](https://img.shields.io/badge/Assembly-007AAC?logo=assemblyscript&logoColor=fff)](#) [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)|
+|Framework|[![.Net](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![.Net Framework](https://img.shields.io/badge/.NET_Framework-512BD4?logo=dotnet&logoColor=fff)](#) [![EntityFramework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=.Net&logoColor=fff)](#)
+ [![WinForm](https://img.shields.io/badge/WinForm-512BD4?logo=.Net&logoColor=fff)](#) [![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.Net&logoColor=fff)](#) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)|
 
 <br/>
 <br/>
