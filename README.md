@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bill Tsui</h1>
-<h3 align="center">A back-end & cross-platform software engineer from China</h3>
+![](assets/Bottom_up.svg)
+
+
+<!--my-ticker-->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Bill+Tsui;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;)](https://git.io/typing-svg)
+
+<!--header picture-->
+![](assets/header_.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billtsui&label=Profile%20views&color=0e75b6&style=flat" alt="billtsui" /> </p>
 
@@ -24,3 +30,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true"/>
 </div>
 
+![](assets/Bottom_down.svg)
