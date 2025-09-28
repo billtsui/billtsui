@@ -39,15 +39,13 @@
 
 ![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg)
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtsui&layout=compact" style="height: 160px; margin: 0 1%;"/>
     <img src="https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true" style="height: 160px; margin: 0 1%;"/>
-</div>
+</div> -->
 
 <div style="display:flex;flex-direction:row;justify-content:center;">
-    <img height="140"  src="https://streak-stats.demolab.com?user=billtsui&count private=true&border_radius-10" alt="streak stats" style="margin: 0" />
+  <img height="140"  src="https://streak-stats.demolab.com?user=billtsui" alt="streak stats" style="margin: 0" />
   <img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=billtsui&count_private=true&show_icons=true&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
   <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=billtsui&show_icons=true&locale=en&layout=compact&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="billtsui" style="margin: 0" />
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=billtsui)](https://git.io/streak-stats)
