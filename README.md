@@ -7,7 +7,7 @@
     
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=billtsui&label=Visitors&color=0e75b6&style=flat" alt="billtsui" /> <img alt="Discord" src="https://img.shields.io/discord/143867839282020352?link=https%3A%2F%2Fdiscord.com%2Fusers%2Fbi4aas" alt="Discord" />
-<img alt="Static Badge" src="https://img.shields.io/badge/status-updating-FF1493">
+<img src="https://img.shields.io/badge/status-updating-FF1493">
 </p>
 
 
@@ -39,7 +39,7 @@
 
 ![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg)
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtsui&layout=compact"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="display: inline-block;justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtsui&layout=compact"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true"/>
 </div>
