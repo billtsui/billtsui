@@ -13,9 +13,9 @@
 
 
 
-#### - 🔭 I’m currently working on **[Trip.com](https://www.trip.com)**. I am a backend software development engineer.
+#### - 🔭 I’m currently working on **[Trip.com](https://www.trip.com)**. I am a backend software engineer.
 
-#### - 📝 I regularly write articles on **[billtsui.cn](https://www.billtsui.cn)**. This my personal blog.
+#### - 📝 I regularly write articles on **[billtsui.cn](https://www.billtsui.cn)**. It's my personal blog.
 
 #### - 💬 Ask me about **[Arm Assembly](https://developer.arm.com/documentation/den0042/0100/Introduction-to-Assembly-Language)/[C](https://en.wikipedia.org/wiki/The_C_Programming_Language)/[C#](https://dotnet.microsoft.com/en-us/languages/csharp)/[.Net](https://dotnet.microsoft.com/en-us/)**. I usually use C#, occasionally writing assembly and C code.
 
