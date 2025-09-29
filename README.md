@@ -41,8 +41,8 @@
 
 
 <div class='container'>
-<img style="height: 160px; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true" />
+<img style="height: 160px; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=billtsui&show_icons=true" />
 &nbsp;
 &nbsp;
-<img style="height: 160px; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtsui&langs_count=8&layout=compact" /></div>
+<img style="height: 160px; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billtsui&langs_count=8&layout=compact" /></div>
 </div>
