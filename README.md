@@ -17,7 +17,7 @@
 
 #### - 📝 I regularly write articles on **[billtsui.cn](https://www.billtsui.cn)**. This is my personal blog.
 
-#### - 💬 Ask me about **[C](https://en.wikipedia.org/wiki/The_C_Programming_Language)/[C#](https://dotnet.microsoft.com/en-us/languages/csharp)**. I usually use C#, writing Java and C code occasionally.
+#### - 💬 Ask me about **[C](https://en.wikipedia.org/wiki/The_C_Programming_Language) & [C#](https://dotnet.microsoft.com/en-us/languages/csharp)**. I usually use C#, writing C and Java code occasionally.
 
 #### - 📫 How to reach me **dhubilltsui@gmail.com**.
 
