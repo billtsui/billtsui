@@ -38,6 +38,3 @@
 
 
 ![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
