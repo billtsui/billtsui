@@ -18,18 +18,18 @@ jobs:
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            card: stats
+            options: username=${{ github.repository_owner }}&show_icons=true
+            path: profile/stats.svg
+            token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=normal&langs_count=6&exclude_repo=billtsui.github.io&count_private=true
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+            card: top-langs
+            options: username=${{ github.repository_owner }}&layout=normal&langs_count=6&exclude_repo=billtsui.github.io&count_private=true
+            path: profile/top-langs.svg
+            token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate wakatime
         uses: stats-organization/github-readme-stats-action@v2
