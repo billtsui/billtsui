@@ -37,7 +37,8 @@
 
 ![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg)
 
-![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
+![Wakatime](./profile/wakatime.svg)
 
 

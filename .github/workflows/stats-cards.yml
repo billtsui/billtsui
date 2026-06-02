@@ -31,6 +31,14 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate wakatime
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+            card: wakatime
+            options: username=billtsui&layout=normal
+            path: profile/wakatime.svg
+            token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "billtsui"
