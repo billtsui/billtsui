@@ -3,17 +3,20 @@ name: Update README cards
 on:
   push: # 推送时立即触发
     branches:
-      - main
       - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
@@ -21,7 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
@@ -29,11 +32,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=stats-organization&repo=github-readme-stats
+          path: profile/pin-stats-organization-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
