@@ -41,7 +41,7 @@
 <!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io)](https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io)    [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&hide_progress=true&card_width=315&langs_count=6&display_format=percent)](https://wakatime.com/@billtsui) -->
 
 
-<p align="center">
+<p>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io" height="150" />
   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&hide_progress=true&card_width=315&langs_count=6&display_format=value" height="150" />
 </p>
