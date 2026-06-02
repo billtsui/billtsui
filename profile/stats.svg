@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Bill Tsui's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 197, Total PRs: 1, Total Issues: 7, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 200, Total PRs: 1, Total Issues: 7, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 207.24943134097268;
+        stroke-dashoffset: 207.04848562498844;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >197</text>
+      >200</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
