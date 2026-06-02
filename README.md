@@ -13,11 +13,9 @@
 
 
 
-#### - 🔭 I am a backend software engineer and also a freelancer.
+#### - 🔭 I am a backend software engineer.
 
-#### - 📝 I regularly write articles on **[billtsui.cn](https://www.billtsui.cn)**. This is my personal blog.
-
-#### - 💬 Ask me about **[C](https://en.wikipedia.org/wiki/The_C_Programming_Language) & [C#](https://dotnet.microsoft.com/en-us/languages/csharp)**. I usually use C#, writing C and Java code occasionally.
+#### - 💬 Ask me about **[C#](https://dotnet.microsoft.com/en-us/languages/csharp) & [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)**. I usually use C#, and occasionally write in C and x86-64 Assembly.
 
 #### - 📫 How to reach me **dhubilltsui@gmail.com**.
 
@@ -26,8 +24,8 @@
 <!-- my-skills -->
 |Property|Data|
 |------- |----|
-|**Programming Language**|![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23512BD4.svg?logo=cshrp) ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk)|
-|**Development Framework**|![.Net](https://img.shields.io/badge/.NET_8.9.10-512BD4?logo=dotnet) ![EF](https://img.shields.io/badge/EF_Core-512BD4?logo=.Net) ![WPF](https://img.shields.io/badge/WPF-512BD4?logo=.Net) ![Avalonia](https://img.shields.io/badge/Avalonia-512BD4?logo=.Net) ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.Net) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=fff) ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)|
+|**Programming Language**| ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23512BD4.svg?logo=cshrp) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff) ![Assembly](https://img.shields.io/badge/-x86--64_Assembly-0000?&logo=assemblyscript) ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk)|
+|**Development Framework**|![.Net](https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet) ![EF](https://img.shields.io/badge/EF_Core-512BD4?logo=.Net) ![WPF](https://img.shields.io/badge/WPF-512BD4?logo=.Net) ![Avalonia](https://img.shields.io/badge/Avalonia-512BD4?logo=.Net) ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.Net) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=fff) ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)|
 |**Professional Course**|![Data Structure](https://img.shields.io/badge/Data_Structure-1A0F99) ![Operating System](https://img.shields.io/badge/Operating_System-4C8CBF) ![Computer Network](https://img.shields.io/badge/Computer_Network-E34F55) ![Database](https://img.shields.io/badge/Database-004400) ![Computer Organization & Systems](https://img.shields.io/badge/Computer_Organization_&_Systems-66F)|
 |**Operating System**| ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11) ![Linux](https://img.shields.io/badge/Linux-F86F35B?logo=linux&logoColor=111111) ![macOS](https://img.shields.io/badge/macOS-245dcf?logo=apple&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff) ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)|
 |**IDE & Tool**| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2a7efc.svg?logo=intellij-idea&logoColor=000000) ![Rider](https://img.shields.io/badge/Rider-ff1a68?logo=rider&logoColor=000000) ![GNU](https://img.shields.io/badge/GNU-123456?logo=gnu&logoColor=white) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-5C2D91.svg?logo=vsc) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio) |
@@ -38,3 +36,9 @@
 
 
 ![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg)
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
+
