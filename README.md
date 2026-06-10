@@ -42,6 +42,6 @@
 
 
 <p>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&langs_count=6&display_format=percent&card_width=505" height="140" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io" height="200" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&langs_count=6&display_format=percent&card_width=505" height="200" />
 </p>
