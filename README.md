@@ -26,35 +26,68 @@
 <!-- my-skills -->
 |Skills|Data|
 |:------- |:----|
-| **Programming Language** | ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23512BD4.svg?logo=cshrp) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff) ![Assembly](https://img.shields.io/badge/-x86--64_Assembly-0000?&logo=assemblyscript) |
-|**Development Framework**|![.Net](https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet) ![EF](https://img.shields.io/badge/EF_Core-512BD4?logo=.Net) ![Dapper](https://img.shields.io/badge/Dapper-512BD4?logo=.Net) ![WinForm](https://img.shields.io/badge/WinForm-512BD4?logo=.Net) ![Avalonia](https://img.shields.io/badge/Avalonia-512BD4?logo=.Net) ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.Net) ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core_MVC-512BD4?logo=.Net)  ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core_Web_API-512BD4?logo=.Net) |
-|**Professional Course**|![Data Structure](https://img.shields.io/badge/Data_Structure-1A0F99) ![Operating System](https://img.shields.io/badge/Operating_System-4C8CBF) ![Computer Network](https://img.shields.io/badge/Computer_Network-E34F55) ![Database](https://img.shields.io/badge/Database-004400) ![Computer Organization & Systems](https://img.shields.io/badge/Computer_Organization_&_Systems-66F)|
-|**Operating System**| ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11) ![Linux](https://img.shields.io/badge/Linux-F86F35B?logo=linux&logoColor=111111) ![macOS](https://img.shields.io/badge/macOS-245dcf?logo=apple&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff) ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)|
 |**IDE & Tool**| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2a7efc.svg?logo=intellij-idea&logoColor=000000) ![Rider](https://img.shields.io/badge/Rider-ff1a68?logo=rider&logoColor=000000) ![GNU](https://img.shields.io/badge/GNU-123456?logo=gnu&logoColor=white) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-5C2D91.svg?logo=vsc) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio) |
 |**Version Control**| ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff) ![Subversion](https://img.shields.io/badge/Subversion-5e1fc3?logo=subversion&logoColor=fff)|
 |**Database**|[![MySQL](https://img.shields.io/badge/MySQL-7055BE?logo=mysql&logoColor=fff)](#) [![SQLite](https://img.shields.io/badge/SQLite-559400?logo=sqlite&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-C54BB5?logo=mongodb&logoColor=fff)](#) [![Redis](https://img.shields.io/badge/Redis-fe473d?logo=redis&logoColor=fff)](#)|
 |**CI / CD**| [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Kubernetes](https://img.shields.io/badge/Kubernetes-323CE5?logo=kubernetes&logoColor=fff)](#) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-208899?logo=githubactions&logoColor=fff)](#) [![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-2d5ac5?logo=gitlab&logoColor=fff)](#)|
 
 
-### 🧰 Skills & Ecosystem
+### 🖥 Skills & Ecosystem
 
 <table>
   <tr>
-    <th width="150px">分类</th>
-    <th width="450px">技术徽章</th>
+    <th width="35%">Category</th>
+    <th width="100%">Technical Badges</th>
   </tr>
   <tr>
-    <td><b>Backend</b></td>
+    <td><b>Programming Language</b></td>
     <td>
-      <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=.net&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/C%23 12-%23512BD4.svg?logo=cshrp"/>
+      <img src="https://img.shields.io/badge/C 17-00599C?logo=c&logoColor=fff"/>
+      <img src="https://img.shields.io/badge/X86--64_Assembly-0000?&logo=assemblyscript"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Development Framework</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet"/>
+      <img src="https://img.shields.io/badge/EF_Core-512BD4?logo=.Net"/>
+      <img src="https://img.shields.io/badge/Dapper-512BD4?logo=.Net"/>
+      <img src="https://img.shields.io/badge/WinForm-512BD4?logo=.Net"/>
+      <img src="https://img.shields.io/badge/Avalonia-512BD4?logo=.Net"/>
+      <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.Net"/>
+      <img src="https://img.shields.io/badge/ASP.NET%20Core_MVC-512BD4?logo=.Net"/>
+      <img src="https://img.shields.io/badge/ASP.NET%20Core_Web_API-512BD4?logo=.Net"/>
+    </td>
+  </tr>
+   <tr>
+    <td><b>Major Courses</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-1A0F99"/>
+      <img src="https://img.shields.io/badge/Operating_System-4C8CBF"/>
+      <img src="https://img.shields.io/badge/Computer_Network-E34F55"/>
+      <img src="https://img.shields.io/badge/Database_System-004400"/>
+      <img src="https://img.shields.io/badge/Computer_Architecture-66F"/>
+    </td>
+  </tr>
+   <tr>
+    <td><b>Operating System</b></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/Windows_11-0078D6?logo=windows11"/>
+      <img src="https://img.shields.io/badge/Linux_7.0-F86F35B?logo=linux&logoColor=111111"/>
+      <img src="https://img.shields.io/badge/macOS_15.7-245dcf?logo=apple&logoColor=fff"/>
+      <img src="https://img.shields.io/badge/Ubuntu_26.04-E95420?logo=ubuntu&logoColor=fff"/>
+      <img src="https://img.shields.io/badge/Pop!__OS_24.04-48B9C7?logo=popos&logoColor=fff"/>
     </td>
   </tr>
   <tr>
     <td><b>Database</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL_8.4-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis_8.0-DC382D?style=flat&logo=redis&logoColor=white" />
+       <img src="https://img.shields.io/badge/MongoDB_8.3-47A248?style=flat&logo=mongodb&logoColor=white" />
+       <img src="https://img.shields.io/badge/SQLite_3.42-003B57?style=flat&logo=sqlite&logoColor=white" />
+       <img src="https://img.shields.io/badge/PostgreSQL_18-336791?style=flat&logo=postgresql&logoColor=white" />
     </td>
   </tr>
 </table>
