@@ -26,10 +26,6 @@
 
 <table>
   <tr>
-    <th width="30%">Category</th>
-    <th width="100%">Technical Badges</th>
-  </tr>
-  <tr>
     <td><b>Programming Language</b></td>
     <td>
       <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/C%23 12-%23512BD4.svg?logo=cshrp"/>
