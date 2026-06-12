@@ -17,15 +17,17 @@
 
 #### - 💬 Ask me about **[C#](https://dotnet.microsoft.com/en-us/languages/csharp) & [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)**. I usually use C#, and occasionally write in C and x86-64 Assembly.
 
-#### - 📫 How to reach me **dhubilltsui@gmail.com**.
+#### - 📫 How to reach me **bill.k.tsui@gmail.com**.
 
 <!--header picture-->
 ![](assets/header_.png)
+
+
 <!-- my-skills -->
-|Property|Data|
-|------- |----|
-|**Programming Language**| ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23512BD4.svg?logo=cshrp) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff) ![Assembly](https://img.shields.io/badge/-x86--64_Assembly-0000?&logo=assemblyscript) ![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk)|
-|**Development Framework**|![.Net](https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet) ![EF](https://img.shields.io/badge/EF_Core-512BD4?logo=.Net) ![WPF](https://img.shields.io/badge/WPF-512BD4?logo=.Net) ![Avalonia](https://img.shields.io/badge/Avalonia-512BD4?logo=.Net) ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.Net) ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=fff) ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)|
+|Skills|Data|
+|:------- |:----|
+| **Programming Language** | ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23512BD4.svg?logo=cshrp) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff) ![Assembly](https://img.shields.io/badge/-x86--64_Assembly-0000?&logo=assemblyscript) |
+|**Development Framework**|![.Net](https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet) ![EF](https://img.shields.io/badge/EF_Core-512BD4?logo=.Net) ![Dapper](https://img.shields.io/badge/Dapper-512BD4?logo=.Net) ![WinForm](https://img.shields.io/badge/WinForm-512BD4?logo=.Net) ![Avalonia](https://img.shields.io/badge/Avalonia-512BD4?logo=.Net) ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=.Net) ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core_MVC-512BD4?logo=.Net)  ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET%20Core_Web_API-512BD4?logo=.Net) |
 |**Professional Course**|![Data Structure](https://img.shields.io/badge/Data_Structure-1A0F99) ![Operating System](https://img.shields.io/badge/Operating_System-4C8CBF) ![Computer Network](https://img.shields.io/badge/Computer_Network-E34F55) ![Database](https://img.shields.io/badge/Database-004400) ![Computer Organization & Systems](https://img.shields.io/badge/Computer_Organization_&_Systems-66F)|
 |**Operating System**| ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11) ![Linux](https://img.shields.io/badge/Linux-F86F35B?logo=linux&logoColor=111111) ![macOS](https://img.shields.io/badge/macOS-245dcf?logo=apple&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff) ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)|
 |**IDE & Tool**| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2a7efc.svg?logo=intellij-idea&logoColor=000000) ![Rider](https://img.shields.io/badge/Rider-ff1a68?logo=rider&logoColor=000000) ![GNU](https://img.shields.io/badge/GNU-123456?logo=gnu&logoColor=white) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-5C2D91.svg?logo=vsc) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio) |
@@ -34,6 +36,28 @@
 |**CI / CD**| [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Kubernetes](https://img.shields.io/badge/Kubernetes-323CE5?logo=kubernetes&logoColor=fff)](#) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-208899?logo=githubactions&logoColor=fff)](#) [![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-2d5ac5?logo=gitlab&logoColor=fff)](#)|
 
 
+### 🧰 Skills & Ecosystem
+
+<table>
+  <tr>
+    <th width="150px">分类</th>
+    <th width="450px">技术徽章</th>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg)
 
