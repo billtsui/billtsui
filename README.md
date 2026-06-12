@@ -113,7 +113,7 @@
     <td><b>MQ</b></td>
     <td>
       <img valign="middle" src="https://img.shields.io/badge/RabbitMQ 4.0.5-ffffff?logo=rabbitmq&logoColor=FF6600" />
-      <img valign="middle" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff" />
+      <img valign="middle" src="https://img.shields.io/badge/Apache%20Kafka-181717?logo=apachekafka&logoColor=fff" />
     </td>
   </tr>
 </table>
@@ -126,5 +126,5 @@
 
 <p>
   <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io" height="200" /> -->
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&langs_count=6&display_format=percent&card_width=505" height="200" width="800" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&langs_count=6&display_format=percent&card_width=800" height="200"/>
 </p>
