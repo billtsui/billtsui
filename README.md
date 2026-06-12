@@ -51,7 +51,7 @@
     </td>
   </tr>
    <tr>
-    <td><b>Major Courses</b></td>
+    <td><b>Major Course</b></td>
     <td>
       <img valign="middle" src="https://img.shields.io/badge/Data_Structures_&_Algorithms-1A0F99"/>
       <img valign="middle" src="https://img.shields.io/badge/Operating_System-4C8CBF"/>
@@ -71,7 +71,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>IDE & Tools</b></td>
+    <td><b>IDE & Tool</b></td>
     <td>
       <img valign="middle" src="https://img.shields.io/badge/IntelliJ_IDEA-2a7efc.svg?logo=intellij-idea&logoColor=000000"/>
       <img valign="middle" src="https://img.shields.io/badge/Rider-ff1a68?logo=rider&logoColor=000000"/>
@@ -106,8 +106,14 @@
       <img valign="middle" src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white" />
       <img valign="middle" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
       <img valign="middle" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" />
-      <img valign="middle" src="https://img.shields.io/badge/GitLab_CI/CD-2d5ac5?logo=gitlab&logoColor=fff" />
         <img valign="middle" src="https://img.shields.io/badge/Subversion-5e1fc3?logo=subversion&logoColor=fff" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>MQ</b></td>
+    <td>
+      <img valign="middle" src="https://img.shields.io/badge/RabbitMQ 4.0.5-ffffff?logo=rabbitmq&logoColor=FF6600" />
+      <img valign="middle" src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff" />
     </td>
   </tr>
 </table>
@@ -120,5 +126,5 @@
 
 <p>
   <!-- <img src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io" height="200" /> -->
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&langs_count=6&display_format=percent&card_width=505" height="200" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&langs_count=6&display_format=percent&card_width=505" height="200" width="800" />
 </p>
