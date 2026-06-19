@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+Bill+Tsui.;Over+10+years+of+programming+experience;)](https://git.io/typing-svg)
     
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=billtsui&label=Visitors&color=0e75b6&style=flat" alt="billtsui" /> <img alt="Discord" src="https://img.shields.io/discord/143867839282020352?link=https%3A%2F%2Fdiscord.com%2Fusers%2Fbi4aas" alt="Discord" />
+<p align="center"> <img alt="Discord" src="https://img.shields.io/discord/143867839282020352?link=https%3A%2F%2Fdiscord.com%2Fusers%2Fbi4aas" alt="Discord" />
 <img src="https://img.shields.io/badge/status-updating-FF1493">
 <a href="https://wakatime.com/@d9af2a8c-1237-4f37-b2d9-654d9dffc27c"><img src="https://wakatime.com/badge/user/d9af2a8c-1237-4f37-b2d9-654d9dffc27c.svg" alt="Total time coded since May 8 2026" /></a>
 </p>
