@@ -23,7 +23,7 @@
 <!--header picture-->
 ![](assets/header_.png)
 
-## 📖 Reading List
+## 📖 2022 Reading List
 ### - ✅ *Pro C# 10 with .NET 6 (11th Edition)*
 ### - ✅ *Pro .NET Memory Management (2nd Edition)*
 </br>
