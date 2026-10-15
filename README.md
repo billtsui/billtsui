@@ -36,7 +36,7 @@
     <th  align="left" width="100%">Technical Badges</th>
   </tr>
   <tr>
-    <td><b>Programming Language</b></td>
+    <td><b>Programming Languages</b></td>
     <td>
       <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/C%23 -%23512BD4.svg?logo=cshrp"/>
       <img valign="middle" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff"/>
@@ -44,9 +44,9 @@
     </td>
   </tr>
   <tr>
-    <td><b>Development Framework</b></td>
+    <td><b>Development Frameworks</b></td>
     <td>
-      <img valign="middle" src="https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet"/>
+      <img valign="middle" src="https://img.shields.io/badge/.NET_8 & 10-512BD4?logo=dotnet"/>
       <img valign="middle" src="https://img.shields.io/badge/EF_Core-512BD4?logo=.Net"/>
       <img valign="middle" src="https://img.shields.io/badge/Dapper-512BD4?logo=.Net"/>
       <img valign="middle" src="https://img.shields.io/badge/WPF-512BD4?logo=.Net"/>
@@ -57,7 +57,7 @@
     </td>
   </tr>
    <tr>
-    <td><b>Major Course</b></td>
+    <td><b>Major Courses</b></td>
     <td>
       <img valign="middle" src="https://img.shields.io/badge/Data_Structures_&_Algorithms-1A0F99"/>
       <img valign="middle" src="https://img.shields.io/badge/Operating_System-4C8CBF"/>
@@ -67,17 +67,16 @@
     </td>
   </tr>
    <tr>
-    <td><b>Operating System</b></td>
+    <td><b>Operating Systems</b></td>
     <td>
-      <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11"/>
-      <img valign="middle" src="https://img.shields.io/badge/Linux-F86F35B?logo=linux&logoColor=111111"/>
-      <img valign="middle" src="https://img.shields.io/badge/macOS-245dcf?logo=apple&logoColor=fff"/>
-      <img valign="middle" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff"/>
-      <img valign="middle" src="https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff"/>
+      <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/Windows_11-0078D6?logo=windows11"/>
+      <img valign="middle" src="https://img.shields.io/badge/Pop!__OS_24.04-48B9C7?logo=popos&logoColor=fff"/>
+      <img valign="middle" src="https://img.shields.io/badge/Linux_7.1.5-F86F35B?logo=linux&logoColor=111111"/>
+      <img valign="middle" src="https://img.shields.io/badge/macOS_15.8.1-245dcf?logo=apple&logoColor=fff"/>
     </td>
   </tr>
   <tr>
-    <td><b>IDE & Tool</b></td>
+    <td><b>IDEs & Tools</b></td>
     <td>
       <img valign="middle" src="https://img.shields.io/badge/IntelliJ_IDEA-2a7efc.svg?logo=intellij-idea&logoColor=000000"/>
       <img valign="middle" src="https://img.shields.io/badge/Rider-ff1a68?logo=rider&logoColor=000000"/>
@@ -87,12 +86,12 @@
     </td>
   </tr>
   <tr>
-    <td><b>Database</b></td>
+    <td><b>Databases</b></td>
     <td>
-      <img valign="middle" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      <img valign="middle" src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-       <img valign="middle" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-       <img valign="middle" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+      <img valign="middle" src="https://img.shields.io/badge/MySQL_8.5-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img valign="middle" src="https://img.shields.io/badge/Redis_8.6.2-DC382D?style=flat&logo=redis&logoColor=white" />
+       <img valign="middle" src="https://img.shields.io/badge/MongoDB_8.0.34-47A248?style=flat&logo=mongodb&logoColor=white" />
+       <img valign="middle" src="https://img.shields.io/badge/SQLite_3.42.0-003B57?style=flat&logo=sqlite&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -115,7 +114,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>MQ</b></td>
+    <td><b>Message Queues</b></td>
     <td>
       <img valign="middle" src="https://img.shields.io/badge/RabbitMQ-ffffff?logo=rabbitmq&logoColor=FF6600" />
       <img valign="middle" src="https://img.shields.io/badge/Apache%20Kafka-181717?logo=apachekafka&logoColor=fff" />
@@ -123,12 +122,20 @@
   </tr>
 </table>
 
-<!-- ![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg) -->
+![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg)
 
 
-<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io)](https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io)    [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&hide_progress=true&card_width=315&langs_count=6&display_format=percent)](https://wakatime.com/@billtsui) -->
+  
+
+
 
 
 
 ## :chart_with_upwards_trend: Statistics
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&langs_count=6&display_format=percent&card_width=600" height="200"/>
+<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io)](https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io) -->
+
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&langs_count=6&display_format=percent&card_width=400" height="200"/>
+
+  <!-- <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&hide_progress=true&card_width=315&langs_count=6&display_format=percent"> -->
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io_width=400" height="200"/>
