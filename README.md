@@ -32,8 +32,8 @@
 
 <table>
   <tr>
-    <th  align="left" width="30%">Category</th>
-    <th  align="left" width="100%">Technical Badges</th>
+    <th  align="left" width="35%">Category</th>
+    <th  align="left" width="65%">Technical Badges</th>
   </tr>
   <tr>
     <td><b>Programming Languages</b></td>
@@ -122,7 +122,7 @@
   </tr>
 </table>
 
-![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg)
+<!-- ![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg) -->
 
 
 ## :chart_with_upwards_trend: Statistics
@@ -134,4 +134,4 @@
   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&hide_progress=true&langs_count=6&display_format=percent&card_width=300" height="200"/>
 
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io&card_width=300" height="200"/>
-  </p>
+</p>
