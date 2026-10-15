@@ -130,8 +130,8 @@
 
   <!-- <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&langs_count=6&display_format=percent&card_width=400" height="200"/> -->
 
-<p align="center">
+<p>
   <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&hide_progress=true&langs_count=6&display_format=percent&card_width=300" height="200"/>
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io_width=400" height="200"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io&card_width=300" height="200"/>
   </p>
