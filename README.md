@@ -122,16 +122,25 @@
   </tr>
 </table>
 
-<!-- ![Bill's github activity graph](https://raw.githubusercontent.com/billtsui/billtsui/output/github-snake.svg) -->
 
 
 ## :chart_with_upwards_trend: Statistics
-<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io)](https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER&exclude_repo=billtsui.github.io) -->
 
-  <!-- <img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&langs_count=6&display_format=percent&card_width=400" height="200"/> -->
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=6&role=OWNER" width="40%">
-
-<img src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=compact&hide_progress=true&langs_count=6&display_format=percent"  width="50%"/>
-</div>
+<a href="https://github-stats-extended.vercel.app/api?username=billtsui">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=billtsui&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=8&role=OWNER&exclude_repo=billtsui.github.io,Mosfet.Blog" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=billtsui&layout=compact&langs_count=8&card_width=320&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=compact&hide_progress=true&langs_count=8&display_format=percent&card_width=300" />
+  </picture>
+</a>
