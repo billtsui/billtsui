@@ -71,8 +71,8 @@
     <td>
       <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/Windows_11-0078D6?logo=windows11"/>
       <img valign="middle" src="https://img.shields.io/badge/Pop!__OS_24.04-48B9C7?logo=popos&logoColor=fff"/>
-      <img valign="middle" src="https://img.shields.io/badge/Linux_7.1.5-F86F35B?logo=linux&logoColor=111111"/>
-      <img valign="middle" src="https://img.shields.io/badge/macOS_15.8.1-245dcf?logo=apple&logoColor=fff"/>
+      <!-- <img valign="middle" src="https://img.shields.io/badge/Linux_7.1.5-F86F35B?logo=linux&logoColor=111111"/> -->
+      <img valign="middle" src="https://img.shields.io/badge/macOS_12.7.6-245dcf?logo=apple&logoColor=fff"/>
     </td>
   </tr>
   <tr>
