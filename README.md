@@ -59,11 +59,11 @@
    <tr>
     <td><b>Major Courses</b></td>
     <td>
-      <img valign="middle" src="https://img.shields.io/badge/Data_Structures_&_Algorithms-1A0F99"/>
-      <img valign="middle" src="https://img.shields.io/badge/Operating_System-4C8CBF"/>
-      <img valign="middle" src="https://img.shields.io/badge/Computer_Network-E34F55"/>
-      <img valign="middle" src="https://img.shields.io/badge/Database_System-004400"/>
-      <img valign="middle" src="https://img.shields.io/badge/Computer_Architecture-66F"/>
+      <img valign="middle" src="https://img.shields.io/badge/DSA-1A0F99"/>
+      <img valign="middle" src="https://img.shields.io/badge/OS-4C8CBF"/>
+      <img valign="middle" src="https://img.shields.io/badge/CN-E34F55"/>
+      <img valign="middle" src="https://img.shields.io/badge/DBS-004400"/>
+      <img valign="middle" src="https://img.shields.io/badge/COA-66F"/>
     </td>
   </tr>
    <tr>
