@@ -38,8 +38,8 @@
   <tr>
     <td><b>Programming Languages</b></td>
     <td>
-      <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/C%23 -%23512BD4.svg?logo=cshrp"/>
-      <img valign="middle" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=fff"/>
+      <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/C%23_12-%23512BD4.svg?logo=cshrp"/>
+      <img valign="middle" src="https://img.shields.io/badge/C_11-00599C?logo=c&logoColor=fff"/>
       <img valign="middle" src="https://img.shields.io/badge/X86--64_Assembly-0000?&logo=assemblyscript"/>
     </td>
   </tr>
