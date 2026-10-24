@@ -1,14 +1,13 @@
 ![](assets/Bottom_up.svg)
 
 
-
 <!--my-ticker-->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+Bill+Tsui.;Over+10+years+of+programming+experience;)](https://git.io/typing-svg)
     
 
 <p align="center"> <a href="https://discord.com/users/bi4aas"><img alt="Discord" src="https://img.shields.io/discord/143867839282020352?link=https%3A%2F%2Fdiscord.com%2Fusers%2Fbi4aas" alt="Discord" /></a>
-<img src="https://img.shields.io/badge/status-updating-FF1493">
-<a href="https://wakatime.com/@d9af2a8c-1237-4f37-b2d9-654d9dffc27c"><img src="https://wakatime.com/badge/user/d9af2a8c-1237-4f37-b2d9-654d9dffc27c.svg" /></a>
+<img src="https://vbr.nathanchung.dev/badge?page_id=bill.k.tsui&color=00cf00&logo=github">
+<!-- <a href="https://wakatime.com/@d9af2a8c-1237-4f37-b2d9-654d9dffc27c"><img src="https://wakatime.com/badge/user/d9af2a8c-1237-4f37-b2d9-654d9dffc27c.svg" /></a> -->
 </p>
 
 
@@ -22,6 +21,7 @@
 
 <!--header picture-->
 ![](assets/header_.png)
+
 
 ## 📖 Book List
 ### - ✅ *Pro C# 10 with .NET 6 (11th Edition)*
@@ -143,3 +143,7 @@
     <img  height="200" align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=billtsui&layout=default&hide_progress=true&langs_count=8&display_format=percent&card_width=300" />
   </picture>
 </a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=billtsui&theme=github)
+
+![](assets/Bottom_down.svg)
