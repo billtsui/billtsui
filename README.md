@@ -46,7 +46,7 @@
   <tr>
     <td><b>Development Frameworks</b></td>
     <td>
-      <img valign="middle" src="https://img.shields.io/badge/.NET_8 & 10-512BD4?logo=dotnet"/>
+      <img valign="middle" src="https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet"/>
       <img valign="middle" src="https://img.shields.io/badge/EF_Core-512BD4?logo=.Net"/>
       <img valign="middle" src="https://img.shields.io/badge/Dapper-512BD4?logo=.Net"/>
       <img valign="middle" src="https://img.shields.io/badge/WPF-512BD4?logo=.Net"/>
@@ -69,20 +69,19 @@
    <tr>
     <td><b>Operating Systems</b></td>
     <td>
-      <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/Windows_11-0078D6?logo=windows11"/>
       <img valign="middle" src="https://img.shields.io/badge/Pop!__OS_24.04-48B9C7?logo=popos&logoColor=fff"/>
-      <!-- <img valign="middle" src="https://img.shields.io/badge/Linux_7.1.5-F86F35B?logo=linux&logoColor=111111"/> -->
       <img valign="middle" src="https://img.shields.io/badge/macOS_12.7.6-245dcf?logo=apple&logoColor=fff"/>
+      <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/Windows_11-0078D6?logo=windows11"/>
     </td>
   </tr>
   <tr>
     <td><b>IDEs & Tools</b></td>
     <td>
-      <img valign="middle" src="https://img.shields.io/badge/IntelliJ_IDEA-2a7efc.svg?logo=intellij-idea&logoColor=000000"/>
-      <img valign="middle" src="https://img.shields.io/badge/Rider-ff1a68?logo=rider&logoColor=000000"/>
-      <img valign="middle" src="https://img.shields.io/badge/GNU-123456?logo=gnu&logoColor=white"/>
-      <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-5C2D91.svg?logo=vsc"/>
-      <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio"/>
+    <img valign="middle" src="https://img.shields.io/badge/Rider_2026.2-ff1a68?logo=rider&logoColor=000000"/>
+    <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio_2026-5C2D91.svg?&logo=visualstudio"/>
+    <img valign="middle" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code_1.143.1-5C2D91.svg?logo=vsc"/>
+    <!-- <img valign="middle" src="https://img.shields.io/badge/GNU-123456?logo=gnu&logoColor=white"/> -->
+    <!-- <img valign="middle" src="https://img.shields.io/badge/IntelliJ_IDEA_2026.2-2a7efc.svg?logo=intellij-idea&logoColor=000000"/> -->
     </td>
   </tr>
   <tr>
@@ -97,9 +96,9 @@
   <tr>
     <td><b>CI & CD</b></td>
     <td>
-      <img valign="middle" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-      <img valign="middle" src="https://img.shields.io/badge/Kubernetes-323CE5?logo=kubernetes&logoColor=fff" />
-      <img valign="middle" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff" />
+      <img valign="middle" src="https://img.shields.io/badge/Docker_27.5.1-2496ED?logo=docker&logoColor=fff" />
+      <!-- <img valign="middle" src="https://img.shields.io/badge/Kubernetes-323CE5?logo=kubernetes&logoColor=fff" />
+      <img valign="middle" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff" /> -->
       <img valign="middle" src="https://img.shields.io/badge/GitHub_Actions-208899?logo=githubactions&logoColor=fff" />
       <img valign="middle" src="https://img.shields.io/badge/GitLab_CI/CD-2d5ac5?logo=gitlab&logoColor=fff" />
     </td>
@@ -107,17 +106,17 @@
   <tr>
     <td><b>Version Control</b></td>
     <td>
-      <img valign="middle" src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white" />
+      <img valign="middle" src="https://img.shields.io/badge/Git_2.56.0-000000?logo=git&logoColor=white" />
       <img valign="middle" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
       <img valign="middle" src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" />
-        <img valign="middle" src="https://img.shields.io/badge/Subversion-5e1fc3?logo=subversion&logoColor=fff" />
+      <img valign="middle" src="https://img.shields.io/badge/Subversion-5e1fc3?logo=subversion&logoColor=fff" />
     </td>
   </tr>
   <tr>
     <td><b>Message Queues</b></td>
     <td>
-      <img valign="middle" src="https://img.shields.io/badge/RabbitMQ-ffffff?logo=rabbitmq&logoColor=FF6600" />
-      <img valign="middle" src="https://img.shields.io/badge/Apache%20Kafka-181717?logo=apachekafka&logoColor=fff" />
+      <img valign="middle" src="https://img.shields.io/badge/RabbitMQ_4.0.5-ffffff?logo=rabbitmq&logoColor=FF6600" />
+      <img valign="middle" src="https://img.shields.io/badge/Apache%20Kafka_4.2.16-181717?logo=apachekafka&logoColor=fff" />
     </td>
   </tr>
 </table>
