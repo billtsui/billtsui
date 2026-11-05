@@ -1,5 +1,7 @@
-![](assets/Bottom_up.svg)
+<!-- ![](assets/Bottom_up.svg) -->
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,40:1D4ED8,100:7C3AED&height=250&section=header&text=Welcome to my profile!&fontSize=44&fontColor=FFFFFF&fontAlignY=37&descAlignY=61&descSize=16" width="100%" alt="Bill Tsui — Deep Learning, Computer Vision, and AI Research" />
 
 <!--my-ticker-->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+Bill+Tsui.;Over+10+years+of+programming+experience;)](https://git.io/typing-svg)
@@ -7,7 +9,7 @@
 
 <p align="center"> <a href="https://discord.com/users/bi4aas"><img alt="Discord" src="https://img.shields.io/discord/143867839282020352?link=https%3A%2F%2Fdiscord.com%2Fusers%2Fbi4aas" alt="Discord" /></a>
 <img src="https://vbr.nathanchung.dev/badge?page_id=bill.k.tsui&color=00cf00&logo=github">
-<!-- <a href="https://wakatime.com/@d9af2a8c-1237-4f37-b2d9-654d9dffc27c"><img src="https://wakatime.com/badge/user/d9af2a8c-1237-4f37-b2d9-654d9dffc27c.svg" /></a> -->
+<a href="https://wakatime.com/@d9af2a8c-1237-4f37-b2d9-654d9dffc27c"><img src="https://wakatime.com/badge/user/d9af2a8c-1237-4f37-b2d9-654d9dffc27c.svg" /></a>
 </p>
 
 
@@ -20,7 +22,7 @@
 ### - 📫 How to reach me **bill.k.tsui@gmail.com**.
 
 <!--header picture-->
-![](assets/header_.png)
+![](assets/header.png)
 
 
 ## 📖 Book List
@@ -129,4 +131,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=billtsui&theme=github&animation=sequence&duration=3&name=Bill+Tsui)
 
-![](assets/Bottom_down.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:111827&height=120&section=footer" width="100%" alt="" />
