@@ -1,7 +1,7 @@
 <!-- ![](assets/Bottom_up.svg) -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,40:1D4ED8,100:7C3AED&height=250&section=header&text=Welcome to my profile!&fontSize=44&fontColor=FFFFFF&fontAlignY=37&descAlignY=61&descSize=16" width="100%" alt="Bill Tsui — Deep Learning, Computer Vision, and AI Research" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,40:1D4ED8,100:7C3AED&height=250&section=header&text=Welcome%20to%20my%20profile!&fontSize=44&fontColor=FFFFFF&fontAlignY=37&descAlignY=61&descSize=16" width="100%" alt="Bill Tsui — Deep Learning, Computer Vision, and AI Research" />
 
 <!--my-ticker-->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+Bill+Tsui.;Over+10+years+of+programming+experience;)](https://git.io/typing-svg)
