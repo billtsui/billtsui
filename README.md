@@ -15,18 +15,18 @@
 
 
 ### 👨‍💻 About me
-🔭 I am a back-end software engineer.
- 💬 Ask me about **[C#](https://dotnet.microsoft.com/en-us/languages/csharp)**. I usually use C#, and occasionally write in C and x86-64 Assembly.
- 📧 How to reach me **bill.k.tsui@gmail.com**.
+🔭 I am a back-end software engineer.<br/>
+ 💬 Ask me about **[C#](https://dotnet.microsoft.com/en-us/languages/csharp)**. I usually use C#, and occasionally write in C and x86-64 Assembly.<br/>
+ 📧 How to reach me **bill.k.tsui@gmail.com**.<br/>
 
 <!--header picture-->
 ![](assets/header.png)
 
 
 ### 📖 Read books
- ✅ *Pro C# 10 with .NET 6 (11th Edition)*
- ✅ *Pro .NET Memory Management (2nd Edition)*
- ✅ *Entity Framework Core in Action (2nd Edition)*
+ ✅ *Pro C# 10 with .NET 6 (11th Edition)* <br/>
+ ✅ *Pro .NET Memory Management (2nd Edition)* <br/>
+ ✅ *Entity Framework Core in Action (2nd Edition)* <br/>
 </br>
 
 ### 🖥 Skills
